@@ -1,2 +1,5 @@
-# scaffold
-Scaffold SwiftUI component inspired by Jetpack Compose
+# Scaffold
+
+Scaffold SwiftUI component inspired by Jetpack Compose.
+
+
