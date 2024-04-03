@@ -2,8 +2,6 @@
 
 Scaffold SwiftUI component inspired by Jetpack Compose. Works as a more flexible replacement for NavigationStack's navigation bar. 
 
-https://github.com/nikstar/scaffold/assets/1885828/bd8f32d5-3db9-4d26-8c7b-6a08d6aceeaa
-
 Complete example:
 
 ```swift
